@@ -8,4 +8,4 @@ __credits__ = ["Gunnar Guddal"]
 __license__ = "GPL"
 __version__ = "0.1"
 
-print "Hello world"
+print("Hello world")
